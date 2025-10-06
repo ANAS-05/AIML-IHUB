@@ -15,3 +15,6 @@ Extra experiments and parameter tuning are included where applicable.
 Repository is well-organized and publicly accessible for easy evaluation.
 
 Feel free to explore the notebooks!
+
+NAME : SYED ABDUL BARR ANAS
+
